@@ -4,7 +4,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//slett denne setningen
 @Entity
 @Table(schema = "public", name = "deltaker")
 public class Deltaker {
