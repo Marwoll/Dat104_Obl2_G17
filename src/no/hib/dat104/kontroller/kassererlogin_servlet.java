@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
+//slett denne kommentaren
 @WebServlet("/kassererlogin_servlet")
 public class kassererlogin_servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
