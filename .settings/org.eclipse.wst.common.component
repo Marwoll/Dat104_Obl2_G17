@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="Dat104_Obl2_G17v2">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Dat104_Obl2_G17v2"/>
         <property name="java-output-path" value="/Dat104_Obl2_G17v2/bin"/>
+=======
+    <wb-module deploy-name="git_Dat104_Obl2_G17">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="git_Dat104_Obl2_G17"/>
+        <property name="java-output-path" value="/git_Dat104_Obl2_G17/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/Marwoll/Dat104_Obl2_G17.git
     </wb-module>
 </project-modules>
